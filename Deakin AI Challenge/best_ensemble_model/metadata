@@ -1,1 +1,0 @@
-command: bash program/script.sh $input $output
